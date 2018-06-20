@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="hello_wonderful_visitor_to_this_photo_album_click_buttons_below_to_view">Hello Wonderful visitor to this photo album click buttons below to view</string>
+    <string name="image_3">Image 3</string>
+    <string name="image_2">Image 2</string>
+    <string name="image_1">Image 1</string>
+    <string name="homebtn">Home</string>
+    <string name="home">HOME</string>
+    <string name="hello_welcome_to_the_photo_album_click_below">Hello welcome to the photo album click below:-</string>
+</resources>
